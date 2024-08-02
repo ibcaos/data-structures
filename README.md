@@ -14,7 +14,7 @@ This repository is dedicated to practicing and implementing various data structu
 ## Project Structure
 
 The project is organized into directories, each corresponding to a specific data structure:
-
+```
 data-structures/
 ├── linked-lists/
 │   ├── singly_linked_list.go
@@ -35,7 +35,7 @@ data-structures/
 │   └── adjacency_matrix.go
 └── hash_tables/
     └── hash_table.go
-
+```
 
 
 ## Getting Started
